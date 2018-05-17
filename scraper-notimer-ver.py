@@ -11,7 +11,7 @@ import pymysql
 
 ######请在这里填入密码########
 
-password = XXXXXX;
+password = "XXXXXX";
 
 ###########################
 
