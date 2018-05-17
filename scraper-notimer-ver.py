@@ -9,7 +9,7 @@ import re
 from bs4 import BeautifulSoup
 import pymysql
 
-######请在这里填入密码########
+######请在这里填入数据库密码########
 
 password = "XXXXXX";
 
